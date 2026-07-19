@@ -4,7 +4,7 @@ An AI-powered Resume Screening System that predicts how well a candidate's resum
 
 ## 📌 Project Overview
 
-Recruiters spend significant time manually reviewing resumes against job descriptions. This project automates the process by learning semantic similarity between resumes and job descriptions using Natural Language Processing (NLP) and Deep Learning.
+Recruiters spend significant time manually reviewing resumes against job descriptions. This project automates the process by learning semantic similarity between resumes and job descriptions using Deep Learning.
 
 The system:
 
